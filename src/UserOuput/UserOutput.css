@@ -1,0 +1,13 @@
+/* This stylesheet is globally scoped ... */
+.UserOutput {
+    margin: 5%;
+    box-shadow: 0 2px 3px blue;
+    padding: 10px;
+    width: 100%;
+    padding-right: 15rem;
+}
+
+.UserOutput > p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 15px;
+}
